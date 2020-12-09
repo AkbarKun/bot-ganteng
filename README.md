@@ -23,6 +23,8 @@ git clone https://github.com/AkbarKun/bot-ganteng
 cd bot-ganteng
 npm i -g cwebp
 npm i -g ytdl && npm i && npm i got
+scan kode qr nya
+selamat mencoba
 ```
 
 ## Features
