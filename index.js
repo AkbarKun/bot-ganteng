@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 const BotName = 'AkbarKun BOT 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/aku.akbar_'; // Nama Instagramlu cok
 const whatsapplu = '0812-5738-6125'; // Nomor whatsapplu cok
-const kapanbotaktif = 'BOT TIDAK BISA BERJALAN SETIAP HARI!'; // Kapan bot lu aktif
+const kapanbotaktif = '24 JAM!'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
 //
