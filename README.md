@@ -9,11 +9,12 @@ Siapin alat dan bahannya.
 > internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+> kalau ga punya termux download di playstore ya bund
+> cara nya di bawah hhahaha
 ```
 
 ### Cara Installnya
-Sebelum lu jalanin sc nya install dulu lah.
+Kalau mau pakai bot nya ikuti cara - cara di bawah ya bund
 ```bash
 apt update && apt upgrade
 pkg install git
