@@ -52,5 +52,5 @@ selamat mencoba
 ## Special Thanks to
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-### Donate
-* [`Gopay`]
+### Subscribe
+* [`Youtube`](https://www.youtube.com/channel/UCHhmIhtE_xcSe8HGIUGyHUw)
