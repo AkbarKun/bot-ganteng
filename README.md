@@ -6,7 +6,7 @@ Di bawah ini adalah bahan - bahannya
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
+> siapkan sinyal yang memadai, pakai data seluler kek wifi kek serah aja.
 > aplikasi whatsapp
 > aplikasi termux
 > kalau ga punya termux download di playstore ya bund
