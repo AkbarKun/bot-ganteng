@@ -15,18 +15,19 @@ Siapin alat dan bahannya.
 ### Cara Installnya
 Sebelum lu jalanin sc nya install dulu lah.
 ```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/AkbarKun/bot-ganteng
-> cd bot-ganteng
-> bash install.sh
-> node index.js
-> Tinggal scan qr dah
+apt update && apt upgrade
+pkg install git
+pkg install ffmpeg
+pkg install nodejs
+git clone https://github.com/AkbarKun/bot-ganteng
+cd bot-ganteng
+npm i -g cwebp
+npm i -g ytdl && npm i && npm i got
 ```
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| AkbarKun       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
