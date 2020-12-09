@@ -2,7 +2,7 @@
 BOT WHATSAPP HP YANG BISA DI PAKAI SIAPA SAJA
 
 ### Alat dan Bahan
-Siapin alat dan bahannya.
+Di bawah ini adalah bahan - bahannya
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
