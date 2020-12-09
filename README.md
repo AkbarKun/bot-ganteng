@@ -52,4 +52,4 @@ selamat mencoba
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-GOPAY [ 081257386125 ]
+* [`Gopay`]
