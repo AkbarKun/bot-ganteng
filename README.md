@@ -52,4 +52,4 @@ selamat mencoba
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+GOPAY [ 081257386125 ]
