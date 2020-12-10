@@ -54,3 +54,9 @@ selamat mencoba
 
 ### Subscribe
 * [`Youtube`](https://www.youtube.com/channel/UCHhmIhtE_xcSe8HGIUGyHUw)
+
+### Bot Whatsapp
+* [`Whatsapp`](https://Wa.me/6281257386125)
+
+
+
