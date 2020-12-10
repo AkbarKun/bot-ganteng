@@ -56,7 +56,7 @@ selamat mencoba
 * [`Youtube`](https://www.youtube.com/channel/UCHhmIhtE_xcSe8HGIUGyHUw)
 
 ### Bot Whatsapp
-* [`Whatsapp`](https://Wa.me/6281257386125)
+* [`Whatsapp`](https://Wa.me/+12028713211)
 
 
 
